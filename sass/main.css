@@ -549,6 +549,8 @@ body {
   border-bottom: 3px solid transparent;
   width: 90%;
   display: block;
+  -webkit-transition: all .3s;
+  transition: all .3s;
 }
 
 .form__input:focus {
